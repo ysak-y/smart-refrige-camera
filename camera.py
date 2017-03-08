@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from picamera import PiCamera
 from time import sleep
 import boto3
